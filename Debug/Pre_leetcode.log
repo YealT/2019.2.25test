@@ -1,0 +1,20 @@
+﻿生成启动时间为 2019/2/24 16:27:32。
+     1>项目“E:\code\Pre_leetcode\Pre_leetcode\Pre_leetcode.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\visual stdio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt 6.solveNQueens.cpp
+         6.solveNQueens.cpp
+     1>e:\code\pre_leetcode\pre_leetcode\6.solvenqueens.cpp(39): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+     1>e:\code\pre_leetcode\pre_leetcode\6.solvenqueens.cpp(18): warning C4715: “Solution::solveNQueens”: 不是所有的控件路径都返回值
+       Link:
+         E:\visual stdio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\code\Pre_leetcode\Debug\Pre_leetcode.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\code\Pre_leetcode\Debug\Pre_leetcode.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\code\Pre_leetcode\Debug\Pre_leetcode.lib" /MACHINE:X86 Debug\intToRoman.obj
+         Debug\maxArea.obj
+         Debug\lengthOfLongestSubstring.obj
+         Debug\6.solveNQueens.obj
+         Debug\TowNum_multiply.obj
+         Debug\TwoNumSum.obj
+         Pre_leetcode.vcxproj -> E:\code\Pre_leetcode\Debug\Pre_leetcode.exe
+     1>已完成生成项目“E:\code\Pre_leetcode\Pre_leetcode\Pre_leetcode.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.65
